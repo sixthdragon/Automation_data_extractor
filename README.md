@@ -14,4 +14,4 @@ Their programming may differ but they all flow similar pattern
 4. then, open the first product and extract all its features 
 5. create a DataFrame with name,price and extracted features as columns and rows equal to number of extracted urls
 6. then, open every product webpage with extracted urls and extract the data for dataframe
-7. optional, in this we are extracting the features of first product only to get the every feature we see just de-comment the the certain code (code is commented in the file as every file has different code i can't point it here
+7. optional, in this we are extracting the features of first product only to get the every feature we see just de-comment the the certain code (code is commented in the file as every file has different code i can't point it here)
